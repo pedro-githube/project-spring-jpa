@@ -22,7 +22,7 @@ import com.spring.program.repositories.ProductRepository;
 import com.spring.program.repositories.UserRepository;
 
 @Configuration
-@Profile("test")
+@Profile("developer")
 public class TestConfig implements CommandLineRunner{
     
 	@Autowired
