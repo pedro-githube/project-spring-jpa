@@ -35,7 +35,7 @@ Requirements:
 
 ```bash
 # clone repository
-git clone https://github.com/pedro-githube/project-spring-react.git
+git clone https://github.com/pedro-githube/project-spring-jpa.git
 
 # enter the backend project folder
 cd backend
