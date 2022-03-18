@@ -22,9 +22,10 @@ the logical layer structures (resource, service, repository).
 - JPA / Hibernate
 - Maven
 - Swagger
+## Database
+- Database: H2-console / PostegreSQL 
 ## Deploy
 - Backend : Heroku
-- Data Base: H2-console / PostegreSQL
 
 # How execute the project 
 
